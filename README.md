@@ -2,6 +2,8 @@
 
 Example newsletter signup app. Implemented with Node.js and Express on the backend; HTML, CSS and Bootstrap 4 on the frontend. The emails are saved to Mailchimp using the Mailchimp API.
 
+Hosted example: https://murmuring-beyond-04781.herokuapp.com/
+
 ### Install and Setup
 
 Install node modules:
